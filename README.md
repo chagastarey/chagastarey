@@ -6,7 +6,7 @@
 
 -🎱língua nativa: português
 
--📫entrar em contato: agathayasmindaschagas@gmail.com
+-📫entrar em contato: agathayasminchagas0302@gmail.com
 
 
 
