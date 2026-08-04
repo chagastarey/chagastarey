@@ -8,7 +8,11 @@
 
 -📫entrar em contato: agathayasminchagas0302@gmail.com
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+</div>
 
+###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
